@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Online_Ahopping_App_Test_Suit">
+              <span class="suite-name border-passed">Online Ahopping App Test Suit</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Online_Ahopping_App_Test_Suit">
+                    <span>C:\Mrunal\OnlineShopApp\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Online_Ahopping_App_Test_Suit">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Online_Ahopping_App_Test_Suit">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Online_Ahopping_App_Test_Suit">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Online_Ahopping_App_Test_Suit">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Online_Ahopping_App_Test_Suit">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Online_Ahopping_App_Test_Suit">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">2 methods,   2 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Online_Ahopping_App_Test_Suit" class="hide-methods passed suite-Online_Ahopping_App_Test_Suit"> (hide)</a> <!-- hide-methods passed suite-Online_Ahopping_App_Test_Suit -->
+                      <a href="#" panel-name="suite-Online_Ahopping_App_Test_Suit" class="show-methods passed suite-Online_Ahopping_App_Test_Suit"> (show)</a> <!-- show-methods passed suite-Online_Ahopping_App_Test_Suit -->
+                    </span>
+                    <div class="method-list-content passed suite-Online_Ahopping_App_Test_Suit">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Online_Ahopping_App_Test_Suit" title="com.OnlineApp.qa.testcases.RegisterUser" hash-for-method="registerUserTest(Mrunal, Tare, 37th street, Miami, Florida, 41057, 9009878990)">registerUserTest(Mrunal, Tare, 37th street, Miami, Florida, 41057, 9009878990)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Online_Ahopping_App_Test_Suit" title="com.OnlineApp.qa.testcases.VerifyOrderHistory" hash-for-method="verifyOrderAmtOnHistory([Faded Short Sleeve T-shirts, Blouse])">verifyOrderAmtOnHistory([Faded Short Sleeve T-shirts, Blouse])</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Online_Ahopping_App_Test_Suit -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Online_Ahopping_App_Test_Suit" class="panel Online_Ahopping_App_Test_Suit">
+          <div class="suite-Online_Ahopping_App_Test_Suit-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.OnlineApp.qa.testcases.RegisterUser</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="registerUserTest(Mrunal, Tare, 37th street, Miami, Florida, 41057, 9009878990)">
+                  </a> <!-- registerUserTest(Mrunal, Tare, 37th street, Miami, Florida, 41057, 9009878990) -->
+                  <span class="method-name">registerUserTest</span>
+                  <span class="parameters">(Mrunal, Tare, 37th street, Miami, Florida, 41057, 9009878990)</span>
+                  <em>
+(Register user to application)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Online_Ahopping_App_Test_Suit-class-passed -->
+          <div class="suite-Online_Ahopping_App_Test_Suit-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.OnlineApp.qa.testcases.VerifyOrderHistory</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyOrderAmtOnHistory([Faded Short Sleeve T-shirts, Blouse])">
+                  </a> <!-- verifyOrderAmtOnHistory([Faded Short Sleeve T-shirts, Blouse]) -->
+                  <span class="method-name">verifyOrderAmtOnHistory</span>
+                  <span class="parameters">([Faded Short Sleeve T-shirts, Blouse])</span>
+                  <em>
+(Check order amt on history page after ordering product)                  </em>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Online_Ahopping_App_Test_Suit-class-passed -->
+        </div> <!-- panel Online_Ahopping_App_Test_Suit -->
+        <div panel-name="test-xml-Online_Ahopping_App_Test_Suit" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Mrunal\OnlineShopApp\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; name=&quot;Online Ahopping App Test Suit&quot;&gt;
+  &lt;test thread-count=&quot;1&quot; name=&quot;Online Shopping App Test&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.OnlineApp.qa.testcases.RegisterUser&quot;/&gt;
+      &lt;class name=&quot;com.OnlineApp.qa.testcases.VerifyOrderHistory&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Online Shopping App Test --&gt;
+&lt;/suite&gt; &lt;!-- Online Ahopping App Test Suit --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Online_Ahopping_App_Test_Suit" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Online Ahopping App Test Suit</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Online Shopping App Test (2 classes)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Online_Ahopping_App_Test_Suit" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Online Ahopping App Test Suit</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Online_Ahopping_App_Test_Suit" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Online Ahopping App Test Suit</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Online_Ahopping_App_Test_Suit');
+function tableData_Online_Ahopping_App_Test_Suit() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(2);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'verifyOrderAmtOnHistory')
+data.setCell(0, 2, 'com.OnlineApp.qa.testcases.VerifyOrderHistory')
+data.setCell(0, 3, 49155);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'registerUserTest')
+data.setCell(1, 2, 'com.OnlineApp.qa.testcases.RegisterUser')
+data.setCell(1, 3, 15244);
+window.suiteTableData['Online_Ahopping_App_Test_Suit']= { tableData: data, tableDiv: 'times-div-Online_Ahopping_App_Test_Suit'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 1 minutes</span>
+              <div id="times-div-Online_Ahopping_App_Test_Suit">
+              </div> <!-- times-div-Online_Ahopping_App_Test_Suit -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Online_Ahopping_App_Test_Suit" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Online Ahopping App Test Suit</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">registerUserTest(Mrunal, Tare, 37th street, Miami, Florida, 41057, 9009878990)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><br> Clicked on <b>Sign In Button</b></br></span>
+                <span class="reporter-method-output"><br><b>Sign In Page is displayed.</b></br></span>
+                <span class="reporter-method-output"><br><b>Mrunal_140520173118@gmail.com</b> is Entered in <b>Email Address</b></br></span>
+                <span class="reporter-method-output"><br> Clicked on <b>Create Account Button</b></br></span>
+                <span class="reporter-method-output"><br>Create Account Info Page is displayed.</br></span>
+                <span class="reporter-method-output"><br><b>Mrunal</b> is Entered in <b>First Name</b></br></span>
+                <span class="reporter-method-output"><br><b>Tare</b> is Entered in <b>Last Name</b></br></span>
+                <span class="reporter-method-output"><br>Following prepopulated email address matched: Mrunal_140520173118@gmail.com</br></span>
+                <span class="reporter-method-output"><br><b>null********</b> is Entered in <b>Password</b></br></span>
+                <span class="reporter-method-output"><br><b>37th street</b> is Entered in <b>Address</b></br></span>
+                <span class="reporter-method-output"><br><b>Miami</b> is Entered in <b>City</b></br></span>
+                <span class="reporter-method-output"><br><b>Florida</b> is selected in <b>State</b></br></span>
+                <span class="reporter-method-output"><br><b>41057</b> is Entered in <b>Zip</b></br></span>
+                <span class="reporter-method-output"><br><b>9009878990</b> is Entered in <b>Phone</b></br></span>
+                <span class="reporter-method-output"><br> Clicked on <b>Register Button</b></br></span>
+                <span class="reporter-method-output"><br>Account is created succesfully.</br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyOrderAmtOnHistory([Faded Short Sleeve T-shirts, Blouse])</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><br><b>Application invoked successfully.</b></br></span>
+                <span class="reporter-method-output"><br><b>Home Page is displayed.</b></br></span>
+                <span class="reporter-method-output"><br> Clicked on <b>Sign In Button</b></br></span>
+                <span class="reporter-method-output"><br><b>Sign In Page is displayed.</b></br></span>
+                <span class="reporter-method-output"><br><b>Mrunal890@gmail.com</b> is Entered in <b>Registered Email Address</b></br></span>
+                <span class="reporter-method-output"><br><b>null********</b> is Entered in <b>Registered Password</b></br></span>
+                <span class="reporter-method-output"><br> Clicked on <b>Login Button</b></br></span>
+                <span class="reporter-method-output"><br>Account is Logged in succesfully.</br></span>
+                <span class="reporter-method-output"><br> Clicked on <b>Woment Section</b></br></span>
+                <span class="reporter-method-output"><br> Clicked on <b>Faded Short Sleeve T-shirts</b></br></span>
+                <span class="reporter-method-output">Clicked on Add to cart button.</span>
+                <span class="reporter-method-output"><br> Clicked on <b>Continue Shopping</b></br></span>
+                <span class="reporter-method-output"><br> Clicked on <b>Woment Section</b></br></span>
+                <span class="reporter-method-output"><br> Clicked on <b>Blouse</b></br></span>
+                <span class="reporter-method-output">Clicked on Add to cart button.</span>
+                <span class="reporter-method-output"><br> Clicked on <b>Continue Shopping</b></br></span>
+                <span class="reporter-method-output"><br> Clicked on <b>View Cart Button</b></br></span>
+                <span class="reporter-method-output"><br><b>Shopping cart summary is opened<b></br></span>
+                <span class="reporter-method-output"><b><br>Shopping summary page is opened.</b></br></span>
+                <span class="reporter-method-output"><b></br>Total Amount on shopping summary</br> $45.51</b></span>
+                <span class="reporter-method-output"><br> Clicked on <b>Proceed to checkount button</b></br></span>
+                <span class="reporter-method-output"><b><br>Addresses page is opened.</b></br></span>
+                <span class="reporter-method-output"><br> Clicked on <b>Proceed to checkount button</b></br></span>
+                <span class="reporter-method-output"><b><br>Shipping page is opened.</b></br></span>
+                <span class="reporter-method-output"><br> Clicked on <b>Terms of Service</b></br></span>
+                <span class="reporter-method-output"><br> Clicked on <b>Proceed to checkount button</b></br></span>
+                <span class="reporter-method-output"><b><br>Payment page is opened.</b></br></span>
+                <span class="reporter-method-output"><b></br>Total Amount on Payment Page</br> $45.51</b></span>
+                <span class="reporter-method-output"><br> Clicked on <b>Payment by Bank wire button</b></br></span>
+                <span class="reporter-method-output"><b><br>Order confirm page is opened.</b></br></span>
+                <span class="reporter-method-output"><br> Clicked on <b>Order confirm button</b></br></span>
+                <span class="reporter-method-output"><b><br>Order is confirmed</b></br></span>
+                <span class="reporter-method-output">Following order information is displayed: <b>Your order on My Store is complete.
+Please send us a bank wire with
+- Amount $45.51
+- Name of account owner Pradeep Macharla
+- Include these details xyz
+- Bank name RTP
+- Do not forget to insert your order reference DTRUYSEXJ in the subject of your bank wire.
+An email has been sent with this information.
+Your order will be sent as soon as we receive payment.
+If you have questions, comments or concerns, please contact our expert customer support team. .</b></span>
+                <span class="reporter-method-output"><br> Clicked on <b>My Profile Button</b></br></span>
+                <span class="reporter-method-output"><br><b>My Account Page is displayed.</b></br></span>
+                <span class="reporter-method-output"><br> Clicked on <b>Order History Button</b></br></span>
+                <span class="reporter-method-output"><br>Order History Page is opened.</br></span>
+                <span class="reporter-method-output"><br>The amount of order id <b>DTRUYSEXJ</b> under ORDER HISTORY is verified.</br><br> verified value: <b>$45.51</b></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Online_Ahopping_App_Test_Suit" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Online_Ahopping_App_Test_Suit" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.OnlineApp.qa.testcases.RegisterUser</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">registerUserTest(Mrunal, Tare, 37th street, Miami, Florida, 41057, 9009878990)</span>
+                <span class="method-start">14160 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closure</span>
+                <span class="method-start">29410 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.OnlineApp.qa.testcases.VerifyOrderHistory</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setup</span>
+                <span class="method-start">33213 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyOrderAmtOnHistory([Faded Short Sleeve T-shirts, Blouse])</span>
+                <span class="method-start">43430 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">closure</span>
+                <span class="method-start">92589 ms</span>
+              </div> <!-- configuration-method after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

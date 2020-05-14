@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[<br> Clicked on <b>Sign In Button</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Sign In Page is displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Mrunal_140520173118@gmail.com</b> is Entered in <b>Email Address</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Create Account Button</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Create Account Info Page is displayed.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Mrunal</b> is Entered in <b>First Name</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Tare</b> is Entered in <b>Last Name</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Following prepopulated email address matched: Mrunal_140520173118@gmail.com</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>null********</b> is Entered in <b>Password</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>37th street</b> is Entered in <b>Address</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Miami</b> is Entered in <b>City</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Florida</b> is selected in <b>State</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>41057</b> is Entered in <b>Zip</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>9009878990</b> is Entered in <b>Phone</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Register Button</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Account is created succesfully.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Sign off Button</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Application invoked successfully.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Home Page is displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Sign In Button</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Sign In Page is displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Mrunal890@gmail.com</b> is Entered in <b>Registered Email Address</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>null********</b> is Entered in <b>Registered Password</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Login Button</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Account is Logged in succesfully.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Woment Section</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Faded Short Sleeve T-shirts</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add to cart button.]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Continue Shopping</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Woment Section</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Blouse</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Clicked on Add to cart button.]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Continue Shopping</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>View Cart Button</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>Shopping cart summary is opened<b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<b><br>Shopping summary page is opened.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<b></br>Total Amount on shopping summary</br> $45.51</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Proceed to checkount button</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<b><br>Addresses page is opened.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Proceed to checkount button</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<b><br>Shipping page is opened.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Terms of Service</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Proceed to checkount button</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<b><br>Payment page is opened.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<b></br>Total Amount on Payment Page</br> $45.51</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Payment by Bank wire button</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<b><br>Order confirm page is opened.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Order confirm button</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<b><br>Order is confirmed</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[Following order information is displayed: <b>Your order on My Store is complete.
+Please send us a bank wire with
+- Amount $45.51
+- Name of account owner Pradeep Macharla
+- Include these details xyz
+- Bank name RTP
+- Do not forget to insert your order reference DTRUYSEXJ in the subject of your bank wire.
+An email has been sent with this information.
+Your order will be sent as soon as we receive payment.
+If you have questions, comments or concerns, please contact our expert customer support team. .</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>My Profile Button</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><b>My Account Page is displayed.</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Order History Button</b></br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>Order History Page is opened.</br>]]>
+    </line>
+    <line>
+      <![CDATA[<br>The amount of order id <b>DTRUYSEXJ</b> under ORDER HISTORY is verified.</br><br> verified value: <b>$45.51</b>]]>
+    </line>
+    <line>
+      <![CDATA[<br> Clicked on <b>Sign off Button</b></br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Online Ahopping App Test Suit" duration-ms="96627" started-at="2020-05-14T12:00:59Z" finished-at="2020-05-14T12:02:36Z">
+    <groups>
+    </groups>
+    <test name="Online Shopping App Test" duration-ms="96627" started-at="2020-05-14T12:00:59Z" finished-at="2020-05-14T12:02:36Z">
+      <class name="com.OnlineApp.qa.testcases.RegisterUser">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.OnlineApp.qa.testcases.RegisterUser@3aeaafa6]" name="setUp" is-config="true" duration-ms="14160" started-at="2020-05-14T12:00:59Z" finished-at="2020-05-14T12:01:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="registerUserTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.OnlineApp.qa.testcases.RegisterUser@3aeaafa6]" name="registerUserTest" duration-ms="15244" started-at="2020-05-14T12:01:13Z" description="Register user to application" data-provider="SearchProvider" finished-at="2020-05-14T12:01:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Mrunal]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tare]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[37th street]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Miami]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Florida]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[41057]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[9009878990]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br> Clicked on <b>Sign In Button</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b>Sign In Page is displayed.</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b>Mrunal_140520173118@gmail.com</b> is Entered in <b>Email Address</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Create Account Button</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>Create Account Info Page is displayed.</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b>Mrunal</b> is Entered in <b>First Name</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b>Tare</b> is Entered in <b>Last Name</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>Following prepopulated email address matched: Mrunal_140520173118@gmail.com</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b>null********</b> is Entered in <b>Password</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b>37th street</b> is Entered in <b>Address</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b>Miami</b> is Entered in <b>City</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b>Florida</b> is selected in <b>State</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b>41057</b> is Entered in <b>Zip</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b>9009878990</b> is Entered in <b>Phone</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Register Button</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>Account is created succesfully.</br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- registerUserTest -->
+        <test-method status="PASS" signature="closure()[pri:0, instance:com.OnlineApp.qa.testcases.RegisterUser@3aeaafa6]" name="closure" is-config="true" duration-ms="3799" started-at="2020-05-14T12:01:29Z" finished-at="2020-05-14T12:01:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br> Clicked on <b>Sign off Button</b></br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- com.OnlineApp.qa.testcases.RegisterUser -->
+      <class name="com.OnlineApp.qa.testcases.VerifyOrderHistory">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.OnlineApp.qa.testcases.VerifyOrderHistory@76a3e297]" name="setup" is-config="true" duration-ms="10217" started-at="2020-05-14T12:01:32Z" finished-at="2020-05-14T12:01:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyOrderAmtOnHistory([Ljava.lang.String;)[pri:0, instance:com.OnlineApp.qa.testcases.VerifyOrderHistory@76a3e297]" name="verifyOrderAmtOnHistory" duration-ms="49155" started-at="2020-05-14T12:01:43Z" description="Check order amt on history page after ordering product" data-provider="SearchProvider" finished-at="2020-05-14T12:02:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[Ljava.lang.String;@106cc338]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[<br><b>Application invoked successfully.</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b>Home Page is displayed.</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Sign In Button</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b>Sign In Page is displayed.</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b>Mrunal890@gmail.com</b> is Entered in <b>Registered Email Address</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b>null********</b> is Entered in <b>Registered Password</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Login Button</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>Account is Logged in succesfully.</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Woment Section</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Faded Short Sleeve T-shirts</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Add to cart button.]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Continue Shopping</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Woment Section</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Blouse</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[Clicked on Add to cart button.]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Continue Shopping</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>View Cart Button</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b>Shopping cart summary is opened<b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<b><br>Shopping summary page is opened.</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<b></br>Total Amount on shopping summary</br> $45.51</b>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Proceed to checkount button</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<b><br>Addresses page is opened.</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Proceed to checkount button</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<b><br>Shipping page is opened.</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Terms of Service</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Proceed to checkount button</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<b><br>Payment page is opened.</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<b></br>Total Amount on Payment Page</br> $45.51</b>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Payment by Bank wire button</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<b><br>Order confirm page is opened.</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Order confirm button</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<b><br>Order is confirmed</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[Following order information is displayed: <b>Your order on My Store is complete.
+Please send us a bank wire with
+- Amount $45.51
+- Name of account owner Pradeep Macharla
+- Include these details xyz
+- Bank name RTP
+- Do not forget to insert your order reference DTRUYSEXJ in the subject of your bank wire.
+An email has been sent with this information.
+Your order will be sent as soon as we receive payment.
+If you have questions, comments or concerns, please contact our expert customer support team. .</b>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>My Profile Button</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br><b>My Account Page is displayed.</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br> Clicked on <b>Order History Button</b></br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>Order History Page is opened.</br>]]>
+            </line>
+            <line>
+              <![CDATA[<br>The amount of order id <b>DTRUYSEXJ</b> under ORDER HISTORY is verified.</br><br> verified value: <b>$45.51</b>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyOrderAmtOnHistory -->
+        <test-method status="PASS" signature="closure()[pri:0, instance:com.OnlineApp.qa.testcases.VerifyOrderHistory@76a3e297]" name="closure" is-config="true" duration-ms="3966" started-at="2020-05-14T12:02:32Z" finished-at="2020-05-14T12:02:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br> Clicked on <b>Sign off Button</b></br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- com.OnlineApp.qa.testcases.VerifyOrderHistory -->
+    </test> <!-- Online Shopping App Test -->
+  </suite> <!-- Online Ahopping App Test Suit -->
+</testng-results>
